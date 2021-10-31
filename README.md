@@ -10,3 +10,13 @@ Antes de instalar, consulte o aplicativo de verificação de integridade do PC p
 
 https://www.microsoft.com/pt-br/software-download/windows11
 
+Notebooks compativel migrado com sucesso:
+
+Lenovo
+
+https://support.lenovo.com/us/en/solutions/ht512623-lenovo-devices-supported-for-windows-11
+
+Notebook S145-15API
+
+
+
