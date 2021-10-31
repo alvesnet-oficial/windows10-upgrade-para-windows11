@@ -10,7 +10,7 @@ Antes de instalar, consulte o aplicativo de verificação de integridade do PC p
 
 https://www.microsoft.com/pt-br/software-download/windows11
 
-Notebooks compativel migrado com sucesso:
+# Notebooks compativel migrado com sucesso:
 
 Lenovo
 
