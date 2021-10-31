@@ -1,4 +1,4 @@
-# Windows 10 upgrade para Winndows 11
+# Windows 10 upgrade para Windows 11
 
 Baixe o Windows 11
 
